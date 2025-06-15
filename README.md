@@ -78,7 +78,7 @@ Embed documents using OpenAI Embeddings.
 
 Store vectors in Qdrant with sparse + dense representations.
 
-### PDF Ingestion Flow (`pdf_ingestion.ipynb.py`)
+### PDF Ingestion Flow (`pdf_ingestion.ipynb`)
 
 Load PDF using UnstructuredPDFLoader.
 
