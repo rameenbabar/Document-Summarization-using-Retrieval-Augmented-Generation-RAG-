@@ -64,8 +64,6 @@ QDRANT_API_KEY = "your-qdrant-api-key"
 QDRANT_URL = "https://your-qdrant-instance"
 ```
 
-Note: Never commit this file to version control. Add it to your .gitignore to protect your credentials.
-
 ---
 
 ## 🧩 Data Ingestion Pipeline
